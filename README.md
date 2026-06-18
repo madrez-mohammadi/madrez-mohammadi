@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Madrez Mohammadi
 
-<!--
-**madrez-mohammadi/madrez-mohammadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & DevOps Engineer in Progress
 
-Here are some ideas to get you started:
+I am an IT professional with 15+ years of experience in IT support, networking, and small business IT operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am focused on building hands-on skills in:
+
+* Linux
+* AWS
+* Terraform
+* Docker
+* GitHub Actions
+* Prometheus
+* Grafana
+* Python Automation
+
+## Current Focus
+
+I am building practical projects to strengthen my Cloud, DevOps, Platform Engineering, and SRE skills.
+
+My goal is to contribute to reliable, scalable, and secure systems while continuously improving my engineering capabilities.
+
+## Learning Journey
+
+Current areas of study:
+
+* Linux Administration
+* AWS Cloud
+* Infrastructure as Code (Terraform)
+* Containerization (Docker)
+* CI/CD (GitHub Actions)
+* Monitoring & Observability
+* DevOps & Site Reliability Engineering
+* Python for Automation
+
+## Featured Projects
+
+Projects will be added here as they are completed.
+
+## Connect
+
+* LinkedIn: [www.linkedin.com/in/madrez-mohammadi](http://www.linkedin.com/in/madrez-mohammadi)
